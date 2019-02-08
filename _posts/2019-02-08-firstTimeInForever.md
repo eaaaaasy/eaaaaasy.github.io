@@ -8,6 +8,9 @@ categories: jekyll update
 
 a yo.
 
+# 이거 보고 했다.
+# https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+
 깃허브 가입하고 
 스타트 프로젝트 하고
 리파지토리 네임에 eaaaaasy.github.io 라고 써주고
